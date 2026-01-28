@@ -1,2 +1,1 @@
-# BaiTapBuoi28_1
-Bài tập ngôn ngữ phát triển ứng dụng mới
+Lê Thị Huyền Trang - 2280603331
